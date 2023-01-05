@@ -1,0 +1,15 @@
+C:\Users\Administrator\dotnet-course-code\Helloworl\bin\Debug\net6.0\Helloworl.exe
+C:\Users\Administrator\dotnet-course-code\Helloworl\bin\Debug\net6.0\Helloworl.deps.json
+C:\Users\Administrator\dotnet-course-code\Helloworl\bin\Debug\net6.0\Helloworl.runtimeconfig.json
+C:\Users\Administrator\dotnet-course-code\Helloworl\bin\Debug\net6.0\Helloworl.dll
+C:\Users\Administrator\dotnet-course-code\Helloworl\bin\Debug\net6.0\Helloworl.pdb
+C:\Users\Administrator\dotnet-course-code\Helloworl\obj\Debug\net6.0\Helloworl.csproj.AssemblyReference.cache
+C:\Users\Administrator\dotnet-course-code\Helloworl\obj\Debug\net6.0\Helloworl.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Administrator\dotnet-course-code\Helloworl\obj\Debug\net6.0\Helloworl.AssemblyInfoInputs.cache
+C:\Users\Administrator\dotnet-course-code\Helloworl\obj\Debug\net6.0\Helloworl.AssemblyInfo.cs
+C:\Users\Administrator\dotnet-course-code\Helloworl\obj\Debug\net6.0\Helloworl.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\dotnet-course-code\Helloworl\obj\Debug\net6.0\Helloworl.dll
+C:\Users\Administrator\dotnet-course-code\Helloworl\obj\Debug\net6.0\refint\Helloworl.dll
+C:\Users\Administrator\dotnet-course-code\Helloworl\obj\Debug\net6.0\Helloworl.pdb
+C:\Users\Administrator\dotnet-course-code\Helloworl\obj\Debug\net6.0\Helloworl.genruntimeconfig.cache
+C:\Users\Administrator\dotnet-course-code\Helloworl\obj\Debug\net6.0\ref\Helloworl.dll
